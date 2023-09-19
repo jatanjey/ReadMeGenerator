@@ -1,8 +1,8 @@
 
-    # red
+    # ReadMeGenerator
   
     ## Description
-    yellow
+    easily made readme files using this generator
   
     ## Table of Contents
     - [Installation](#installation)
@@ -13,10 +13,10 @@
     - [Questions](#questions)
   
     ## Installation
-    blue
+    have the inquirer package
   
     ## Usage
-    orange
+    https://www.youtube.com/watch?v=lMGfGP_RBtI&ab_channel=JatanJeyachandren
   
     ## License
     ![License](https://img.shields.io/badge/license-Apache 2.0-blue.svg)
@@ -24,10 +24,10 @@
     This project is licensed under the [Apache 2.0](https://choosealicense.com/licenses/apache 2.0/) license.
   
     ## Contributing
-    yellow
+    jatan
   
     ## Tests
-    red
+    all inquirer questions ran as intended 
   
     ## Questions
     If you have any questions, you can reach out to me on GitHub:
